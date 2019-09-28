@@ -1,0 +1,28 @@
+{
+  "name": "react-autoheight-swipeable-views",
+  "version": "0.0.1",
+  "description": "Swipeable views for swipeable tabs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "swipe"
+  ],
+  "author": "Benjamin",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^16.9.3",
+    "@types/react-dom": "^16.9.1",
+    "@types/react-swipeable-views": "^0.13.0",
+    "@types/react-test-renderer": "^16.9.0",
+    "react": "^16.10.0",
+    "react-dom": "^16.10.0",
+    "react-scripts-ts": "^3.1.0",
+    "react-swipeable-views": "^0.13.3",
+    "react-test-renderer": "^16.10.0",
+    "resize-observer-polyfill": "^1.5.1",
+    "typescript": "^3.6.3"
+  }
+}
